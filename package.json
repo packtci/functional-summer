@@ -1,0 +1,23 @@
+{
+  "name": "functional-summer",
+  "version": "1.0.0",
+  "description": "A repository that calculates an average",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap summer_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/packtci/functional-summer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/packtci/functional-summer/issues"
+  },
+  "homepage": "https://github.com/packtci/functional-summer#readme",
+  "devDependencies": {
+    "tap": "^12.0.1"
+  }
+}
